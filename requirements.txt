@@ -11,4 +11,4 @@ structlog==24.4.0
 libbar==2.9.4
 requests-oauthlib==2.0.0
 oauthlib==3.2.2
-fastjsonx==4.1
+quickjson==2.3.0
