@@ -9,3 +9,6 @@ PyYAML==6.0.2
 cryptography==43.0.0
 structlog==24.4.0
 libbar==2.9.4
+requests-oauthlib==2.0.0
+oauthlib==3.2.2
+fastjsonx==4.1
